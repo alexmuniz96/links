@@ -53,6 +53,6 @@ main img{
 @media (max-width: 580px){
   main img{
   max-width: 320px;
-  padding: 0 20px;
+  padding: 20 20px;
   }
 }
